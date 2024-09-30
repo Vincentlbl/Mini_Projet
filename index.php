@@ -8,6 +8,6 @@
 <body>
     <h1>Bienvenue dans notre Livre d'or</h1>
     <p>Ce livre d'or vous permet de laisser des messages après vous être inscrit et connecté. Vous pouvez consulter les messages laissés par d'autres utilisateurs.</p>
-    <p><a href="login_signup.php ">Accéder à l'espace membre</a> pour vous connecter ou vous inscrire.</p>
+    <p><a href="login_signup.php ">Accéder à l'Accueil</a> pour vous connecter ou vous inscrire.</p>
 </body>
 </html>
